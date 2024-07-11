@@ -76,6 +76,11 @@ nav ul li{
     max-width: 1140px;
     margin: 0 auto;
 }
+.section-Inspirations{
+    width: 48px 140px;
+    display: flex;
+    flex-direction: column;
+}
 /* about styles */
 
 .about-items{
